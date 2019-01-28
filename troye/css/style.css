@@ -1,0 +1,29 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html{
+	height: 100%;
+	width: 100%;
+	
+}
+
+body {
+	height: 100%;
+	width: 100%;
+}
+
+div {
+	border: 1px solid red;
+}
+
+.general {
+	border: 1px solid red;
+	height: 400px;
+}
+
+.first {
+	height: 200px;
+	background: url(http://i0.hdslb.com/bfs/face/ec7038bbf12dd5f16566ab544ce5d573c9f2a755.jpg);
+}
